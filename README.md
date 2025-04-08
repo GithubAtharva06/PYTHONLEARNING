@@ -1,1 +1,1 @@
-Simple python calculator
+Simple python projects
